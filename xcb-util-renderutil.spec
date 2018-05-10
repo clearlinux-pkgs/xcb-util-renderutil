@@ -4,7 +4,7 @@
 #
 Name     : xcb-util-renderutil
 Version  : 0.3.9
-Release  : 1
+Release  : 2
 URL      : https://xcb.freedesktop.org/dist/xcb-util-renderutil-0.3.9.tar.gz
 Source0  : https://xcb.freedesktop.org/dist/xcb-util-renderutil-0.3.9.tar.gz
 Summary  : XCB RENDER-extension utilities library
